@@ -34,6 +34,10 @@ $(function () {
 		},
 	});
 
+	$(document).ready(function () {
+		$('.fancybox').fancybox();
+	});
+
 	// Count
 	$('.count').each(function () {
 		$(this)

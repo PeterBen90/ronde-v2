@@ -16476,14 +16476,14 @@ textarea.form-control-lg {
 }
 
 .banner-inner-section {
-  min-height: 650px;
+  min-height: 450px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 @media (max-width: 991.98px) {
   .banner-inner-section {
-    min-height: 550px;
+    min-height: 450px;
   }
 }
 
