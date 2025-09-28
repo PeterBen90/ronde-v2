@@ -16815,8 +16815,14 @@ ul {
   width: auto;
 }
 
+
+
 @media (max-width: 600px) {
   .tagline {
     font-size: 20px !important;
+  }
+
+  .bg-img {
+    display: none;
   }
 }
